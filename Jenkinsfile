@@ -9,4 +9,4 @@ after making the changes
 git add .
   git status 
   git commit -m "feat: <branch name> added jenkinsfile"
-  git push origin <newbranchname>
+  git push origin <new branchname>
